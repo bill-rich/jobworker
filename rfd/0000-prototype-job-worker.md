@@ -7,8 +7,7 @@ state: draft
 
 ## Required Approvers
 
-- Engineering: @rosstimothy || @zmb3
-- +1 other
+- Engineering: @rosstimothy || @zmb3, Marek Smoliński || @smallinsky, Anton Miniailo || @AntonAM
 
 ## What
 
